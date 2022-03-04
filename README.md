@@ -1,4 +1,6 @@
 # ClashFiles
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftxyyh%2FClashFiles.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftxyyh%2FClashFiles?ref=badge_shield)
+
 
 ## 已对 Clash v1.8.0 做出针对性适配，同时建议更低版本的 Clash 用户及时升级，以免出现间歇性断网
 
@@ -68,3 +70,7 @@ https://github.com/tindy2013/subconverter
 subweb（网页前端，差不多是一个前者的GUI）
 https://github.com/lzdnico/subweb/tree/admin
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftxyyh%2FClashFiles.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftxyyh%2FClashFiles?ref=badge_large)
